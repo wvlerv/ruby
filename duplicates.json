@@ -1,0 +1,17 @@
+{
+  "scanned_files": 8,
+  "groups": [
+    {
+      "size_bytes": 25478,
+      "saved_if_dedup_bytes": 127390,
+      "files": [
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/fires.csv",
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/forestfires - Copy (2).csv",
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/forestfires - Copy (3).csv",
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/forestfires - Copy (4).csv",
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/forestfires - Copy.csv",
+        "C:\\Users\\PC\\Desktop\\u\\3\\ruby\\test\\dups/forestfires.csv"
+      ]
+    }
+  ]
+}
